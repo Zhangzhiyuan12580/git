@@ -1,5 +1,5 @@
 server:
-  port: 1011
+  port: 1012
   servlet:
     context-path: /spring/cloud/basic
 
